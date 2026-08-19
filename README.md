@@ -254,7 +254,7 @@ AdventureWorks-Sales-Analysis/
 
 ### Sales Overview
 
-![Sales Overview](./Images/sales-overview.jpeg)
+![Sales Overview](sales-overview.jpeg)
 
 ### Sales by Customer
 
@@ -262,7 +262,7 @@ AdventureWorks-Sales-Analysis/
 
 ### Sales by Product
 
-![Sales by Product](./Images/sales-by-product.jpeg)
+![Sales by Product](sales-by-product.jpeg)
 
 ------------------------------------------------------------------------
 
