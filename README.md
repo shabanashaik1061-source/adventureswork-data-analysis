@@ -258,7 +258,7 @@ AdventureWorks-Sales-Analysis/
 
 ### Sales by Customer
 
-![Sales by Customer](./Images/sales-by-customer.jpeg)
+![Sales by Customer](sales-by-customer.jpeg)
 
 ### Sales by Product
 
