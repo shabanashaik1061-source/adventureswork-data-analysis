@@ -254,15 +254,15 @@ AdventureWorks-Sales-Analysis/
 
 ### Sales Overview
 
-![Sales Overview](Images/sales-overview.jpeg)
+![Sales Overview](./Images/sales-overview.jpeg)
 
 ### Sales by Customer
 
-![Sales by Customer](Images/sales-by-customer.jpeg)
+![Sales by Customer](./Images/sales-by-customer.jpeg)
 
 ### Sales by Product
 
-![Sales by Product](Images/sales-by-product.jpeg)
+![Sales by Product](./Images/sales-by-product.jpeg)
 
 ------------------------------------------------------------------------
 
